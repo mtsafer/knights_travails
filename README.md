@@ -1,0 +1,3 @@
+<h1>The Knight's Travails</h1>
+<p>This program shows the simplest possible way to get from one square to another, with a knight from chess, by outputting all squares the knight will stop on along the way.</p>
+<p>This project is presented by <a href="http://www.theodinproject.com/">The Odin Project</a>, find the project <a href="http://www.theodinproject.com/ruby-programming/data-structures-and-algorithms">here</a>.</p>
